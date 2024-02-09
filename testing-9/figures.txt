@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-12-13T23:02:04.381519400Z</date>
+  <millis>1702508524381</millis>
+  <nanos>519400</nanos>
+  <sequence>0</sequence>
+  <logger>Figures</logger>
+  <level>INFO</level>
+  <class>Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>FIGURES</message>
+</record>
+</log>
